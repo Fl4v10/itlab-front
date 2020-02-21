@@ -1,6 +1,6 @@
-# Acredtor que ficou bom, avaliem com carinho!
+# Acredito que ficou bom, avaliem com carinho!
 
-Por favor, para rodar(após ligar a api na porta **5000**) local basta, apenas, dentro da pasta raiz do projeto executar os comando `yart start`, pois eu o programei para reinstallar os pacotes e então executar a aplicação na porta **3000** do seu endereço localhost.
+Por favor, para rodar(após ligar a api) local basta, apenas, dentro da pasta raiz do projeto executar os comando `yart start`, pois eu o programei para reinstallar os pacotes e então executar a aplicação na porta **3000** do seu endereço localhost.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
